@@ -18,3 +18,5 @@ function inc(a) {
 
 console.log("result " + plus(3, 5));
 console.log("result " + plus2(3, 5));
+
+Les deux recursives
